@@ -40,7 +40,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
   
   <section>
     <h2>Let's connect</h2>
-    <p><span><a href="#"><img src="https://img.icons8.com/nolan/2x/linkedin-circled.png" width="100px"/></a></span> <span><a href="#"><img src="https://img.icons8.com/nolan/2x/twitter-circled.png" /></a></span><span><a href="#">My Website</a></span><p/>
+    <p><span><a href="#"><img src="https://img.icons8.com/nolan/2x/linkedin-circled.png" width="50px"/></a></span> <span><a href="#"><img src="https://img.icons8.com/nolan/2x/twitter-circled.png" width="50px"/></a></span><span><a href="#">My Website</a></span><p/>
   </section>
   </body>
   </html>
