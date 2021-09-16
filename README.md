@@ -25,7 +25,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
             <ul>
                 <li>Symfony</li>
             </ul>
-        <li>CSS</li>
+        <li>Java</li>
     </ul>
   </section>
 <!--
