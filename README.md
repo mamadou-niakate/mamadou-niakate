@@ -10,7 +10,7 @@ display: flex;
 }
 </style>
 </head>
- <body>
+ <body style="display:flex;">
 <section>
     <h2>Front-end</h2>
     <ul>
