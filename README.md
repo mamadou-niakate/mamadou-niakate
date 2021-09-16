@@ -4,11 +4,6 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
   </a>.
 <html>
 <head>
-<style>
-body {
-display: flex;
-}
-</style>
 </head>
  <body style="display:flex;">
 <section>
