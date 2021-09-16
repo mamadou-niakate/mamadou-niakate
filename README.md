@@ -39,7 +39,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
   
   <section>
     <h2>Let's connect</h2>
-    <p><span><a href="linkedin.com/in/mamadou-niakate/" target="_blank"><img src="https://img.icons8.com/nolan/48/linkedin-circled.png"/></a></span> <span><a href="https://twitter.com/mr_nkt223" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-circled.png"/></a></span><span><a href="niakate.netlify.app/" target="_blank"><img src="https://img.icons8.com/nolan/48/domain.png"/></a></span><p/>
+    <p><span><a href="https://linkedin.com/in/mamadou-niakate/" target="_blank"><img src="https://img.icons8.com/nolan/48/linkedin-circled.png"/></a></span> <span><a href="https://twitter.com/mr_nkt223" target="_blank"><img src="https://img.icons8.com/nolan/48/twitter-circled.png"/></a></span><span><a href="https://niakate.netlify.app/" target="_blank"><img src="https://img.icons8.com/nolan/48/domain.png"/></a></span><p/>
   </section>
   </body>
   </html>
