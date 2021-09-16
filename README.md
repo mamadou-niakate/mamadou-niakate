@@ -3,13 +3,13 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
     Dassault Systèmes
   </a>.
 <html>
-    <head>
-        <style>
-            body {
-                display: flex;
-            }
-        </style>
-    </head>
+<head>
+<style>
+body {
+display: flex;
+}
+</style>
+</head>
  <body>
 <section>
     <h2>Front-end</h2>
