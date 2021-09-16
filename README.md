@@ -13,8 +13,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
             <ul>
                 <li>Reactjs</li>
             </ul>
-        <li>HTML</li>
-        <li>CSS</li>
+        <li>HTML/CSS</li>
     </ul>
   </section>
   <section>
