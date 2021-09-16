@@ -2,11 +2,7 @@
 I am Mamadou Niakaté, student in Computer science applied to business management specializing in Software Engineering for the Web. I am apprentice Quality Engineer at <a href="https://www.3ds.com/" target="_blank">
     Dassault Systèmes
   </a>.
-    <head>
-        <style>
-            
-        </style>
-    </head>
+
     <main>
         <section>
             <h2>Front-end</h2>
