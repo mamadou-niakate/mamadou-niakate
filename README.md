@@ -28,6 +28,12 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
         <li>Java</li>
     </ul>
   </section>
+  <section>
+    <h2>IU Design</h2>
+    <ul>
+        <li>Figma</li>
+    </ul>
+  </section>
 <!--
 **mamadou-niakate/mamadou-niakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
