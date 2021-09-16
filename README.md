@@ -5,6 +5,9 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
 <html>
     <head>
         <style>
+            body {
+                background-color: red;
+            }
         </style>
     </head>
  <body>
