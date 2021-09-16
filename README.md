@@ -3,37 +3,37 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
     Dassault Systèmes
   </a>.
 
-        <section>
-            <h2>Front-end</h2>
+<section>
+    <h2>Front-end</h2>
+    <ul>
+        <li>Javascript</>
             <ul>
-                <li>Javascript</>
-                    <ul>
-                        <li>Reactjs</li>
-                    </ul>
-                <li>HTML</li>
-                <li>CSS</li>
+                <li>Reactjs</li>
             </ul>
-          </section>
-          <section>
-            <h2>Back-end</h2>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Back-end</h2>
+    <ul>
+        <li>Javascript</>
             <ul>
-                <li>Javascript</>
-                    <ul>
-                        <li>Nodejs - Expressjs</li>
-                    </ul>
-                <li>PHP</li>
-                    <ul>
-                        <li>Symfony</li>
-                    </ul>
-                <li>Java</li>
+                <li>Nodejs - Expressjs</li>
             </ul>
-          </section>
-          <section>
-            <h2>UI Design</h2>
+        <li>PHP</li>
             <ul>
-                <li>Figma</li>
+                <li>Symfony</li>
             </ul>
-          </section>
+        <li>Java</li>
+    </ul>
+  </section>
+  <section>
+    <h2>UI Design</h2>
+    <ul>
+        <li>Figma</li>
+    </ul>
+  </section>
 <!--
 **mamadou-niakate/mamadou-niakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
