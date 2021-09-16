@@ -29,7 +29,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
     </ul>
   </section>
   <section>
-    <h2>IU Design</h2>
+    <h2>UI Design</h2>
     <ul>
         <li>Figma</li>
     </ul>
