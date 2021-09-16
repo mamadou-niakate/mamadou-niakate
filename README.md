@@ -6,7 +6,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
     <head>
         <style>
             body {
-                background-color: red;
+                display: flex;
             }
         </style>
     </head>
