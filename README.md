@@ -3,7 +3,11 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
     Dassault Systèmes
   </a>.
 <html>
-    <body>
+    <head>
+        <style>
+        </style>
+    </head>
+ <body>
 <section>
     <h2>Front-end</h2>
     <ul>
