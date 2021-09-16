@@ -5,7 +5,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
 <html>
 <head>
 </head>
- <body style="display:flex;">
+ <body style="color:red;">
 <section>
     <h2>Front-end</h2>
     <ul>
