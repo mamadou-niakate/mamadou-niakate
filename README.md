@@ -7,7 +7,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
             
         </style>
     </head>
-    <body>
+    <main>
         <section>
             <h2>Front-end</h2>
             <ul>
@@ -39,7 +39,7 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
                 <li>Figma</li>
             </ul>
           </section>
-    </body>
+    </main>
 <!--
 **mamadou-niakate/mamadou-niakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
