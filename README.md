@@ -2,38 +2,46 @@
 I am Mamadou Niakaté, student in Computer science applied to business management specializing in Software Engineering for the Web. I am apprentice Quality Engineer at <a href="https://www.3ds.com/" target="_blank">
     Dassault Systèmes
   </a>.
-  
-  <section>
-    <h2>Front-end</h2>
-    <ul>
-        <li>Javascript</>
+  <html>
+    <head>
+        <style>
+            
+        </style>
+    </head>
+    <body>
+        <section>
+            <h2>Front-end</h2>
             <ul>
-                <li>Reactjs</li>
+                <li>Javascript</>
+                    <ul>
+                        <li>Reactjs</li>
+                    </ul>
+                <li>HTML</li>
+                <li>CSS</li>
             </ul>
-        <li>HTML</li>
-        <li>CSS</li>
-    </ul>
-  </section>
-  <section>
-    <h2>Back-end</h2>
-    <ul>
-        <li>Javascript</>
+          </section>
+          <section>
+            <h2>Back-end</h2>
             <ul>
-                <li>Nodejs - Expressjs</li>
+                <li>Javascript</>
+                    <ul>
+                        <li>Nodejs - Expressjs</li>
+                    </ul>
+                <li>PHP</li>
+                    <ul>
+                        <li>Symfony</li>
+                    </ul>
+                <li>Java</li>
             </ul>
-        <li>PHP</li>
+          </section>
+          <section>
+            <h2>UI Design</h2>
             <ul>
-                <li>Symfony</li>
+                <li>Figma</li>
             </ul>
-        <li>Java</li>
-    </ul>
-  </section>
-  <section>
-    <h2>UI Design</h2>
-    <ul>
-        <li>Figma</li>
-    </ul>
-  </section>
+          </section>
+    </body>
+  </html>
 <!--
 **mamadou-niakate/mamadou-niakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
