@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am Mamadou Niakaté, student in Computer science applied to business management specializing in Software Engineering for the Web. I am apprentice Quality Engineer at <a href="https://www.3ds.com/">
+    <img src="https://blogs.3ds.com/perspectives/wp-content/uploads/sites/22/3DEXPERIENCE-platform-icon-Dassault-Systemes.png" style="width:100;height:auto" />
+    Dassault Systèmes
+  </a>.
 <!--
 **mamadou-niakate/mamadou-niakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
