@@ -2,7 +2,6 @@
 I am Mamadou Niakaté, student in Computer science applied to business management specializing in Software Engineering for the Web. I am apprentice Quality Engineer at <a href="https://www.3ds.com/" target="_blank">
     Dassault Systèmes
   </a>.
-  <html>
     <head>
         <style>
             
@@ -41,7 +40,6 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
             </ul>
           </section>
     </body>
-  </html>
 <!--
 **mamadou-niakate/mamadou-niakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
