@@ -23,9 +23,9 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
             <ul>
                 <li>Nodejs - Expressjs</li>
             </ul>
-        <li>PHP</li>
+        <li>Python</li>
             <ul>
-                <li>Symfony</li>
+                <li>FastAPI</li>
             </ul>
         <li>Java</li>
     </ul>
