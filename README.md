@@ -11,7 +11,8 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
     <ul>
         <li>Javascript</>
             <ul>
-                <li>Reactjs</li>
+                <li>React JS</li>
+                <li>Next.js</li>
             </ul>
         <li>HTML/CSS</li>
     </ul>
