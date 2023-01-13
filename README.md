@@ -6,6 +6,11 @@ I am Mamadou Niakaté, student in Computer science applied to business managemen
 <head>
 </head>
  <body style="color:red;">
+     <section>
+         <h3> My Personsal sites </h3>
+         <p>My Blog: <a href="http://www.beingdev.online/" target="_blank">beingdev.online</a></p>
+         <p>My Portfolio: <a href="https://niakate.netlify.app/" target="_blank">mamadou-niakate</a></p>
+     </section>
 <section>
     <h2>Front-end</h2>
     <ul>
